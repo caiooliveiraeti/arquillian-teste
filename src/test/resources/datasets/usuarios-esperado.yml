@@ -1,0 +1,7 @@
+usuario:
+  - id: 1
+    email: "caio@javacia.com.br"
+    senha: "31"
+  - id: 2
+    email: "marcia@javacia.com.br"
+    senha: "12"
